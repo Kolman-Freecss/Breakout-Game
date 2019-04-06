@@ -1,0 +1,26 @@
+[
+  { 
+    "geometricForm": {
+      "x": 100,
+      "y": 450,
+      "width": 86,
+      "height": 38
+    }
+  },
+  {
+    "geometricForm": {
+      "x": 300,
+      "y": 450,
+      "width": 86,
+      "height": 38
+    }
+  },
+  {
+    "geometricForm": {
+      "x": 500,
+      "y": 450,
+      "width": 86,
+      "height": 38
+    }
+  }
+]
